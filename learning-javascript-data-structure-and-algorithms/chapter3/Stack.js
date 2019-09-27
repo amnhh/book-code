@@ -52,3 +52,5 @@ class Stack {
         console.log(this._items.join(', '));
     }
 }
+
+module.exports = Stack
